@@ -1,7 +1,3 @@
-Here’s a beginner-friendly version of the README tailored for a student uploading it to GitHub for the first time. It maintains a professional tone while simplifying explanations:
-
----
-
 # **Implementation of ML Model for Image Classification**
 
 This project is a simple and interactive **Streamlit app** that allows users to classify images using two pre-trained models: **MobileNetV2** and a custom **CIFAR-10 model**. Users can upload images and get predictions with confidence scores, making it both educational and practical.
@@ -67,4 +63,3 @@ Feel free to share feedback or contribute to improve this project! 😊
 
 --- 
 
-This version is beginner-friendly, polished, and suitable for your first GitHub upload. Let me know if you'd like more edits!
