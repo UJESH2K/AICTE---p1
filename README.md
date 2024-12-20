@@ -24,7 +24,7 @@ This project is a simple and interactive **Streamlit app** that allows users to 
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/Implementation-of-ML-model-for-image-classification.git](https://github.com/UJESH2K/AICTE---p1.git
+   git clone https://github.com/UJESH2K/AICTE---p1.git
    ```
 2. Navigate to the project folder:
    ```bash
